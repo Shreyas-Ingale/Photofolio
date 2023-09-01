@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Photofolio/static/css/main.67d749ea.css",
+    "main.js": "/Photofolio/static/js/main.541080f9.js",
+    "static/media/logo.png": "/Photofolio/static/media/logo.aa7bbb0df1b9bc5311f7.png",
+    "index.html": "/Photofolio/index.html",
+    "main.67d749ea.css.map": "/Photofolio/static/css/main.67d749ea.css.map",
+    "main.541080f9.js.map": "/Photofolio/static/js/main.541080f9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67d749ea.css",
+    "static/js/main.541080f9.js"
+  ]
+}
